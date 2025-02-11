@@ -1,5 +1,8 @@
 # Secure Messaging Network
 
+![espias1](https://github.com/user-attachments/assets/dff39912-fdd8-451c-9ec0-29d0c7a42b24)
+![espias2](https://github.com/user-attachments/assets/d9e2aae2-1605-48c3-a627-e5468e6cb19c)
+
 ## About the Project
 This project solves the problem of securely sending a message to a network of spies while minimizing the probability of interception. Using a graph and Prim's algorithm, it generates a Minimum Spanning Tree (MST) that connects the spies, allowing users to query their information and relationships.
 
